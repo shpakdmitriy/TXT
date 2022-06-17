@@ -1,0 +1,16 @@
+ title : Switch the language inside the article, 
+ status : Opened, 
+ severity : Major, 
+ priority : "iddle,
+ preconditions : 
+     invironment : "PC, 
+     OS : Windows 10, 
+     browser : any browser
+
+ stepsToReproduce
+       point01" : open https://terrikon.com/ 
+       point02" : open any article for example https://terrikon.com/posts/402743 
+       point03" : in the language panel switch the language en
+ 
+ actualresult : return to the translated start page
+ expResult : all article text translates to english
