@@ -1,0 +1,5 @@
+favmovie : Shindler's List
+favtvseries : The big bang theory
+favfood : Borcsh
+favseason : Summer
+country : Japan
